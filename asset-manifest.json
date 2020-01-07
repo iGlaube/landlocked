@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/landlocked/static/css/main.d1b05096.chunk.css",
+    "main.js": "/landlocked/static/js/main.4367d4b2.chunk.js",
+    "main.js.map": "/landlocked/static/js/main.4367d4b2.chunk.js.map",
+    "runtime-main.js": "/landlocked/static/js/runtime-main.487b8289.js",
+    "runtime-main.js.map": "/landlocked/static/js/runtime-main.487b8289.js.map",
+    "static/js/2.bfaaff57.chunk.js": "/landlocked/static/js/2.bfaaff57.chunk.js",
+    "static/js/2.bfaaff57.chunk.js.map": "/landlocked/static/js/2.bfaaff57.chunk.js.map",
+    "index.html": "/landlocked/index.html",
+    "precache-manifest.6ceb5e430a4a38a4b748a8fcb90f0268.js": "/landlocked/precache-manifest.6ceb5e430a4a38a4b748a8fcb90f0268.js",
+    "service-worker.js": "/landlocked/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/landlocked/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bfaaff57.chunk.js.LICENSE": "/landlocked/static/js/2.bfaaff57.chunk.js.LICENSE",
+    "static/media/logo.svg": "/landlocked/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.487b8289.js",
+    "static/js/2.bfaaff57.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.4367d4b2.chunk.js"
+  ]
+}
